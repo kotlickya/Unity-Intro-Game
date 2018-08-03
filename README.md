@@ -1,6 +1,6 @@
 # Unity Intro Game
 Intro-Project
-=================
+=============
 	Hey Guys,
 		I created this project to get the ball rolling. Obviously this isnt our project since we didnt vote for it.
 		This is just to get us started using git and working together.
@@ -11,14 +11,14 @@ Intro-Project
 		~Avi
 		
 Goals
-=================
+=====
 	1) To get the group used to using git.
 	2) To see what and how fast the group works
 	3) To get us started on something.
 	4) To have everyone do one thing from the TODO list
 
 TODO
-=================
+====
 	* To do Primary:
 		* Level Layout (this can be done by hand and sent as image)
 		* Add projectile asset
@@ -32,5 +32,5 @@ TODO
 		* Add sound effects (shooting, walking, enemy, background music)
 
 DONE:
-=================
+=====
 	* Basic First Person Controller - AVI
